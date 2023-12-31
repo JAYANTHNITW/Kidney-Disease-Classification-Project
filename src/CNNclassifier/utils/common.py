@@ -2,7 +2,7 @@ import os
 import box
 from box.exceptions import BoxValueError
 import yaml
-from CNNclassifier import logger
+from src.CNNclassifier import logger
 import json
 import joblib
 from ensure import ensure_annotations
@@ -13,7 +13,14 @@ from typing import Any
 import base64
 
 
-
+'''The return type of below function is "ConfigBox".
+we can call it as prebuilt entity as well. Regarding ensure annotations
+it will make sure we get proper output as 
+def(a:int,b:int):
+return a+b.
+but a and b we can also give strings as input. it will add those many times in python.
+Therefore using ensure annotations we are only confined to give Given datatype
+'''
 @ensure_annotations
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """reads yaml file and returns

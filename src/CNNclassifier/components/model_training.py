@@ -1,8 +1,8 @@
-from src.CNNclassifier import logger
+from CNNclassifier import logger
 from pathlib import Path
 import gdown,zipfile,time
 import tensorflow as tf
-from src.CNNclassifier.entity.config_entity import TrainingConfig
+from CNNclassifier.entity.config_entity import TrainingConfig
 
 
 

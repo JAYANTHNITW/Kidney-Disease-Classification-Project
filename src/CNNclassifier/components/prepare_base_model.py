@@ -5,7 +5,7 @@ from zipfile import ZipFile
 import tensorflow as tf
 from tensorflow import keras
 # from keras.applications.resnet50 import ResNet50
-from src.CNNclassifier.entity.config_entity import PrepareBaseModelConfig
+from CNNclassifier.entity.config_entity import PrepareBaseModelConfig
 
 
 class PrepareBaseModel:

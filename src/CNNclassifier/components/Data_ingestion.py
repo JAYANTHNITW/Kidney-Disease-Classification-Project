@@ -1,6 +1,6 @@
-from src.CNNclassifier.entity.config_entity import DataIngestionConfig
+from CNNclassifier.entity.config_entity import DataIngestionConfig
 import gdown,os,zipfile
-from src.CNNclassifier import logger
+from CNNclassifier import logger
 
 
 class DataIngestion:

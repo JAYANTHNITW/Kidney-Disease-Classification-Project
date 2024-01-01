@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney-Disease-Classification-Project/mlruns/0/1e512642745b4687980072c5765c9fbb/artifacts
+end_time: 1704022891470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e512642745b4687980072c5765c9fbb
+run_name: bright-sponge-373
+run_uuid: 1e512642745b4687980072c5765c9fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704022849446
+status: 3
+tags: []
+user_id: JAYANTH

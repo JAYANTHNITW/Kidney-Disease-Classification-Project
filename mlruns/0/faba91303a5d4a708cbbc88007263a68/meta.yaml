@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney-Disease-Classification-Project/mlruns/0/faba91303a5d4a708cbbc88007263a68/artifacts
+end_time: 1704014138868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faba91303a5d4a708cbbc88007263a68
+run_name: secretive-snail-436
+run_uuid: faba91303a5d4a708cbbc88007263a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704014099306
+status: 3
+tags: []
+user_id: JAYANTH

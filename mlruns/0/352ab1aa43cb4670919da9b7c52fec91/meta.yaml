@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney-Disease-Classification-Project/mlruns/0/352ab1aa43cb4670919da9b7c52fec91/artifacts
+end_time: 1704015219750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352ab1aa43cb4670919da9b7c52fec91
+run_name: bittersweet-goose-89
+run_uuid: 352ab1aa43cb4670919da9b7c52fec91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704015198808
+status: 3
+tags: []
+user_id: JAYANTH

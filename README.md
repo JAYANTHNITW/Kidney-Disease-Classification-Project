@@ -1,8 +1,8 @@
 # Kidney-Disease-Classification-Project
 By Analysing the CT-Scan images we classify whether a kindey has  tumor or not. 
 
-[![Watch the video](https://img.youtube.com/vi/mmbI1ghn9zQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mmbI1ghn9zQ)
-
+## Watch the video: My Reflection on the Project:
+[![Watch the video: My Reflection on Kidney Disease Classification using Dvc and Mlflow](https://img.youtube.com/vi/mmbI1ghn9zQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mmbI1ghn9zQ)
 
 
 ## Workflows
